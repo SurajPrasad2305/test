@@ -270,7 +270,7 @@ a:hover {
   left: 50%;
   display: #000;
 }
-.tile__details:after {
+/* .tile__details:after {
   margin-top: -25px;
   margin-left: -25px;
   width: 50px;
@@ -291,7 +291,7 @@ a:hover {
   margin-top: -18px;
   text-align: center;
   z-index: 2;
-}
+} */
 .tile:hover .tile__details {
   opacity: 1;
 }
