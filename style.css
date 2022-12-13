@@ -41,6 +41,13 @@ body{
     color: #fff;
     opacity: 0.9;
 }
+.nav-items a{
+    text-decoration: none;
+    margin-left: 20px;
+    text-transform: capitalize;
+    color: #fff;
+    opacity: 0.9;
+}
 
 .right-container{
     display: block;
